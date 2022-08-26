@@ -1,16 +1,28 @@
 <Html>    
 <Head>  
 <title>  
-Example of center and BR tag  
+Example of anchor or hyperlink  
 </title>  
 </Head>  
 <Body>   
-<!-- In this example we use the center tag which specify the content at centre of the webpage.-->    
-<center>  
-HTML tutorial in JavaTpoint <br> <!-- The BR tag is used to break a line. -->  
-CSS tutorial in JavaTpoint <br>  
+<!-- In this example we use the anchor tag for linking one page to another by using the href attribute   
+which specify the url of the second page which you want to link.-->    
+<center> Click on <a href="https://www.javatpoint.com/html-favicon"> this link </a> for reading about HTML favicon in JavaTpoint.   
 </center>  
-JavaScript tutorial in JavaTpoint <!-- Here BR tag is not used, so the next statement is in continuous with one space after this statement. -->   
-Jquery tutorial in JavaTpoint <br>  
 </Body>  
-</Html>  
+</Html>    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
