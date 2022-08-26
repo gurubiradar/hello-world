@@ -1,12 +1,20 @@
-<Html> <!-- This tag is compulsory for any HTML document. --> 
-<Head<Html> <!-- This tag is compulsory for any HTML document. -->
-<Head
-<!-- The Head tag is used to create a title of web page, CSS syntax for a web page, and helps in written a JavaScript code. -->
-</Head>
-<Body>
-<!-- The Body tag is used to display the content on a web page. In this example we do not specify any content or any tag, so in output nothing will display on the web page. -->
-</Body>
-</Html>
-~
+<Html>    
+<Head>  
+<title>  
+Example of Paragraph tag  
+</title>  
+</Head>  
+<Body>   
+<p> <!-- It is a Paragraph tag for creating the paragraph -->  
+<b> HTML </b> stands for <i> <u> Hyper Text Markup Language. </u> </i> It is used to create a web pages and applications. This language   
+is easily understandable by the user and also be modifiable. It is actually a Markup language, hence it provides a flexible way for designing the  
+web pages along with the text.   
+</p>  
+HTML file is made up of different elements. <b> An element </b> is a collection of <i> start tag, end tag, attributes and the text between them</i>.   
+</p>  
+</Body>  
+</Html>  
+
+
 
 
