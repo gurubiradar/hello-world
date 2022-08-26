@@ -1,20 +1,18 @@
 <Html>    
 <Head>  
 <title>  
-Example of Paragraph tag  
+Example of Header-levels  
 </title>  
 </Head>  
 <Body>   
-<p> <!-- It is a Paragraph tag for creating the paragraph -->  
-<b> HTML </b> stands for <i> <u> Hyper Text Markup Language. </u> </i> It is used to create a web pages and applications. This language   
-is easily understandable by the user and also be modifiable. It is actually a Markup language, hence it provides a flexible way for designing the  
-web pages along with the text.   
-</p>  
-HTML file is made up of different elements. <b> An element </b> is a collection of <i> start tag, end tag, attributes and the text between them</i>.   
-</p>  
+  
+<h6> JavaTpoint </h6>   
+<h5> JavaTpoint </h5>  
+<h4> JavaTpoint </h4>  
+<h3> JavaTpoint </h3>  
+<h2> JavaTpoint </h2>  
+<h1> JavaTpoint </h1>  
 </Body>  
 </Html>  
-
-
 
 
